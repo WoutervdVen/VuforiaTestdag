@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fiets" size="320.000000 568.960022" />
+    <ImageTarget name="efteling" size="320.000000 236.479996" />
+    <ImageTarget name="bird" size="320.000000 240.457138" />
+    <ImageTarget name="stones" size="1000.000000 700.000000" />
+  </Tracking>
+</QCARConfig>
